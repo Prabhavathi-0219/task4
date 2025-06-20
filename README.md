@@ -1,1 +1,1 @@
-# task4
+This project is a Python-based "Choose Your Own Adventure" game that allows users to navigate through an interactive story by making choices at key decision points. Each decision leads to different paths and outcomes, making the experience unique based on the user's selections. The game demonstrates fundamental Python concepts such as conditional logic, functions, and user input handling, while offering a creative and engaging way to explore branching narratives and interactive storytelling.
